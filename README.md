@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Araseos
+- 👀 I’m interested in software
+- 🌱 I’m currently learning Lua
+- 💞️ I'm ceo of the TenacityDev
